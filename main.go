@@ -1,11 +1,9 @@
 package main
 
-import "fmt"
+import "github.com/Matvayuy/first_ex/ex"
 
 func main() {
-	fmt.Println("Hi")
-	a := 5
-	b := 7
-	var c int = 10
-	fmt.Println(a + b + c)
+	ex.Ex_1()
+	ex.Ex_2()
+	ex.Ex_3()
 }
